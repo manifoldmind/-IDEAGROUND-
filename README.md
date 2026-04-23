@@ -1,3 +1,4 @@
+#algorithms #oop #code-kata #learning #practice #sandbox #tiny-projects #brainstorm
 # 🌱 IDEAGROUND
 
 > *«Почва, где идеи прорастают в код»*
